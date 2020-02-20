@@ -1,0 +1,41 @@
+.sub-heading{
+  font-weight: bold;
+  font-size:30px;
+  text-align: center;
+  font-style: italic;
+  color:white;
+}
+.heading{
+  font-size:50px;
+  font-weight:bold;
+  text-align: center;
+  color:white;
+}
+body{
+  background-color: #390438 ;
+ background-image:url("https://images.unsplash.com/photo-1550645612-83f5d594b671?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+}
+contents{
+  height:500px;
+}
+
+.a{
+  font-size:30px;
+  color:white;
+}
+.contents-item{
+  float:left;
+ width:25%;
+ height:300px;
+ color:white;
+}
+  .contact-form {
+    padding-top: 100px;
+    color:white;
+  }
+  .section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
